@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+dlenv/
+
+# VS Code
+.vscode/
+
+# Model Files
+*.keras
+*.h5
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large dataset files (optional)
+train_images/
+test_images/

